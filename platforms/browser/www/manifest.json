@@ -1,10 +1,10 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "Quiz App",
-  "short_name": "Quiz App",
+  "name": "Quiz",
+  "short_name": "Quiz",
   "version": "com.phonegap.helloworld",
-  "description": "Quiz App for CEGEG077 Web and Mobile GIS.",
+  "description": "Quiz for CEGEG077 Web and Mobile GIS.",
   "author": "ucesbz0@ucl",
   "icons": [],
   "start_url": "index.html"
